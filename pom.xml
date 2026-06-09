@@ -17,7 +17,7 @@
     <name>despacho</name>
 
     <properties>
-        <java.version>25</java.version>
+        <java.version>17</java.version>
         <spring-cloud-aws.version>3.1.1</spring-cloud-aws.version>
     </properties>
 
